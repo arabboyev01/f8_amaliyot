@@ -1,0 +1,23 @@
+body {
+    background-color: #F7F9FC;
+}
+.content__list {
+    padding-top: 104px;
+}
+.content__list ul li a {
+    color: #03AEAFF5;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+}
+.content__list h2 {
+    padding-left: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    font-weight: 500;
+}
+.content__us {
+    width: 1080px;
+    height: 354px;
+    background-color: white;
+    border-radius: 16px;
+}

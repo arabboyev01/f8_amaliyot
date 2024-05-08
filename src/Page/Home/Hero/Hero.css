@@ -1,0 +1,48 @@
+.hero {
+  background-image: url('./img/62038392898a7f366d603a25_Photography_MFC_HomeHeader.jpeg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: aliceblue;
+}
+
+.xizmat {
+  margin-bottom: 100px;
+  margin-right: 480px;
+  border: none;
+  background-color: #3585F9;
+  width: 159.06px;
+  height: 49.27px;
+  padding: 14px, 24.8px, 14.27px, 25px;
+  border-radius: 100px;
+
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.title {
+  color: black;
+  font-family: Lora;
+  font-size: 60.8px;
+  font-weight: 500;
+  line-height: 72.96px;
+  text-align: left;
+}
+
+.xizmat li {
+  color: #fff;
+}
+
+.title span {
+  color: #3585F9;
+}
+
+.title img {
+  margin-left: 10px;
+  margin-top: -20px;
+}

@@ -1,0 +1,67 @@
+.foot__serach {
+  margin: 0 auto;
+  width: 1160px;
+  height: 200px;
+  z-index: 11;
+  transform: translateY(-70px);
+  box-shadow: 0px 10px 40px 0px #00000014;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.foot__inp {
+  opacity: 0.5;
+  width: 224px;
+  height: 47px;
+  padding-left: 15px;
+  border-radius: 100px;
+  border: 1px solid #A0AEBD;
+  color: #000;
+}
+
+.foot__inp {
+  margin-left: 850px;
+  margin-top: -80px;
+  position: absolute;
+}
+
+.foot__col__button .btn {
+  border-radius: 200px;
+  margin-top: 20px;
+  margin-top: 40px;
+}
+
+.foot__col__button .cod-1 {
+  width: 115px;
+  height: 47.19px;
+  border-radius: 100px;
+}
+
+.foot__col__button .cod-4 {
+  width: 115px;
+  height: 47.19px;
+  border-radius: 100px;
+  margin-top: 20px;
+}
+
+.foot__col__button .cod-2 {
+  width: 163.3px;
+  height: 47.19px;
+  border-radius: 100px;
+  margin-left: -50px;
+}
+
+.foot__col__button .cod-5 {
+  width: 130.66px;
+  height: 47.19px;
+  border-radius: 100px;
+  margin-left: -50px;
+  margin-top: 20px;
+}
+
+.foot__col__button .cod-3 {
+  width: 117.05px;
+  height: 47.19px;
+  border-radius: 100px;
+  margin-left: -50px;
+}

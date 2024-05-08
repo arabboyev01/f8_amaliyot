@@ -1,0 +1,78 @@
+.mutaxasis {
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  background: #F7F9FC;
+}
+
+.mutaxasis__text h5 {
+  font-family: Heebo;
+  font-size: 12.8px;
+  font-weight: 500;
+  line-height: 17.92px;
+  letter-spacing: 0.800000011920929px;
+  color: #3585F9;
+}
+
+.mutaxasis__text h4 {
+  font-family: Lora;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 48px;
+}
+
+.mutaxasis__text p {
+  font-family: Heebo;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.muta__dspl {
+  margin-left: 390px;
+  margin-top: -250px;
+}
+
+
+
+.muta__col {
+  width: 303.91px;
+  height: 174.06px;
+  margin-left: 50px;
+  margin-top: 20px;
+  padding-top: 40px;
+  border-radius: 16px;
+  box-shadow: 0px 10px 40px 0px #00000014;
+}
+
+.muta__col span {
+  position: absolute;
+  padding-left: 10px;
+}
+
+.muta__col img {
+  margin-left: -40px;
+}
+
+.muta__col h4 {
+  font-family: Heebo;
+  font-size: 19.2px;
+  font-weight: 500;
+  line-height: 26.88px;
+  margin-top: -10px;
+}
+
+.muta__col h5 {
+  font-family: Heebo;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.muta__col li {
+  font-family: Heebo;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 27.2px;
+  color: #386BEA;
+}

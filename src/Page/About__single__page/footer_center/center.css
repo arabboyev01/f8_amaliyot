@@ -1,0 +1,41 @@
+.center_cont2 {
+    margin-top: 30px;
+    width: 1160px;
+    height: 525.84px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.center_text {
+    width: 730.67px;
+    height: 535.84px;
+    left: 429.33px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.blu {
+    margin-top: 10px;
+    color: #41a2f9;
+}
+h2 {
+    font-family: serif;
+    font-size: 60px;
+}
+h5 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.logotip {
+    position: absolute;
+    display: flex;
+    margin-top: 40px;
+    gap: 40px;
+
+}
+.waterlo {
+    width: 200.22px;
+    margin-left: 10px;
+}

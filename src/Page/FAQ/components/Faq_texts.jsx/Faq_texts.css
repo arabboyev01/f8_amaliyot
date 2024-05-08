@@ -1,0 +1,60 @@
+.faq__texts {
+  padding: 100px;
+  height: 2420px;
+}
+
+.texts_title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: left;
+
+}
+
+.texts__faq {
+  color: #3585F9;
+  font-family: Heebo;
+  font-size: 12.8px;
+  font-weight: 500;
+  line-height: 17.92px;
+  letter-spacing: 0.800000011920929px;
+  text-align: left;
+
+}
+
+.have {
+  font-family: Lora;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 48px;
+  text-align: left;
+
+}
+
+.btn__group {
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+}
+
+.faq__button {
+  border-radius: 200px;
+}
+
+.faq__row {
+  margin-top: 90px;
+}
+
+.faq__row h4 {
+  font-family: Heebo;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 26.88px;
+}
+
+.faq__row p {
+  font-family: Heebo;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27.2px;
+}

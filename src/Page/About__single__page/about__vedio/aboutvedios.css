@@ -1,0 +1,27 @@
+.about__singles {
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.about__singles__text h5 {
+    font-family: Heebo;
+    font-size: 12.8px;
+    font-weight: 500;
+    line-height: 17.92px;
+    letter-spacing: 0.800000011920929px;
+    color: #3585F9;
+}
+
+.about__singles__text h4 {
+    font-family: Lora;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+}
+
+.about__singles__img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

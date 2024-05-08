@@ -1,0 +1,71 @@
+.foot__col {
+    margin-top: 100px;
+}
+
+.col .imgage {
+    border-radius: 10px;
+}
+
+.col .pain-h4 {
+    color: #3585F9;
+    margin-top: 20px;
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22.4px;
+    text-align: center;
+}
+
+.col .pain-h3 {
+    margin-top: 30px;
+    font-family: Lora;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.8px;
+    text-align: center;
+}
+
+.grid__li {
+    cursor: pointer;
+    color: #3585F9;
+
+}
+
+.grid__li img {
+    margin-left: 10px;
+}
+
+.col .pain-p {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+
+.next__div {
+
+    padding-top: 80px;
+    padding-bottom: 90px;
+
+
+}
+
+.foot__next_btn {
+    text-align: center;
+    height: 45.19px;
+    border-radius: 100px;
+    width: 100px;
+    border: none;
+    color: white;
+    background-color: #3585F9;
+    margin-left: 1150px;
+}
+
+.tort {
+    text-align: center;
+    margin-top: 50px;
+
+
+
+}

@@ -1,0 +1,44 @@
+.header_top {
+    width: 100%;
+    height: 36px;
+    background: #3F4953;
+}
+
+.header_text {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    font-family: "Heebo", sans-serif;
+}
+
+.navi {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.navi img {
+    margin-bottom: 20px;
+}
+
+.navi p {
+    font-size: 15px;
+}
+
+.nav__list {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.nav__list h6 {
+    margin-top: 5px;
+}
+
+/* h5 {
+    font-size: 15px;
+    margin-top: 5px;
+} */

@@ -1,0 +1,42 @@
+.feet {
+    display: flex;
+}
+.feet__block {
+    height: 500px;
+    margin-top: 100px;
+}
+.feet__block2 {
+    padding-top: 150px;
+    padding-left: 50px;
+}
+.feet__block2 iframe {
+    width: 548px;
+    height: 400px;
+    border-radius: 16px;
+
+}
+
+.feet__list  h2{
+    padding-left: 30px;
+    margin: 20px 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+}
+.feet__list p {
+    padding-left: 30px;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.feet__list2 {
+    display: flex;
+    margin-top: 70px;
+}
+.feet__loca p{
+    padding-left: 30px;
+    color: #323233;
+}
+
+.feet__loca2 p {
+    padding-top: 15px;
+    color: #323233;
+}

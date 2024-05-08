@@ -1,0 +1,50 @@
+.cantact_h5s {
+    font-family: Heebo;
+    font-size: 12.8px;
+    font-weight: 500;
+    line-height: 17.92px;
+    color: #3585F9;
+    padding-left: 20px;
+}
+
+.muta__cols {
+    width: 303.91px;
+    height: 174.06px;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding-top: 40px;
+    border-radius: 16px;
+    margin-bottom: 50px;
+}
+
+.muta__cols span {
+    position: absolute;
+    padding-left: 10px;
+}
+
+.muta__cols img {
+    margin-left: -40px;
+}
+
+.muta__cols h4 {
+    font-family: Heebo;
+    font-size: 19.2px;
+    font-weight: 500;
+    line-height: 26.88px;
+    margin-top: -10px;
+}
+
+.muta__cols h5 {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.muta__cols li {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27.2px;
+    color: #386BEA;
+}

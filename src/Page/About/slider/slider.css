@@ -1,0 +1,38 @@
+.About_slider {
+  padding: 50px;
+  margin-bottom: 200px;
+}
+
+.slider_wrapper {
+  height: 600px;
+  margin-left: -90px;
+}
+
+.left_button {
+  margin-left: 10px;
+  border-radius: 10px;
+  margin-top: 250px;
+  height: 60px;
+  width: 60px;
+  color: #3585F9;
+  background-color: #fff;
+  box-shadow: 0px 0px 20px 0px #00000014;
+  background-image: url('./img/div.png');
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.right_button {
+  margin-right: 10px;
+  border-radius: 10px;
+  margin-top: 250px;
+  height: 60px;
+  width: 60px;
+  color: #3585F9;
+  background-color: #fff;
+  box-shadow: 0px 0px 20px 0px #00000014;
+  background-image: url('./img/Frame.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}

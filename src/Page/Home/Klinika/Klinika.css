@@ -1,0 +1,40 @@
+.klinika {
+  background-image: url('./img/62038392898a7f27fe603a24_Photography_MFC_HomeSection.jpeg.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.klinik__title {
+  font-family: Lora;
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 48px;
+  color: #323233;
+}
+
+.klinik_par {
+  color: #3585F9;
+  font-family: Heebo;
+  font-size: 12.8px;
+  font-weight: 500;
+  line-height: 17.92px;
+}
+
+.klinik__shadow {
+  background: linear-gradient(270deg, rgba(247, 249, 252, 0.75) 50%, rgba(247, 249, 252, 0) 100%);
+  height: 885.59px;
+  left: 453.61px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 1100px;
+  padding: 200px;
+
+}
+
+.klinik__box {
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  text-align: left;
+}

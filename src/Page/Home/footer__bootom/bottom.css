@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap');
+
+.footer__bottom {
+  background: #323233;
+  width: 100%;
+  height: 300px;
+}
+
+.footer__bottom__center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 30px 0;
+}
+
+.icon__brands {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.icon__brand a {
+  color: #fff;
+}
+
+.footer__bottom__button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 180px;
+  height: 47px;
+  border-radius: 100px;
+  border: 2px solid #fff;
+  color: #fff;
+  background-color: transparent;
+  cursor: pointer;
+  gap: 10px;
+}
+
+
+.footer__year {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.footer__year__list {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.footer__year h3 {
+  font-family: Heebo;
+  font-size: 14.4px;
+  font-weight: 400;
+  line-height: 27.2px;
+  color: white;
+}
+
+.footer__year__list a {
+  font-family: Heebo;
+  font-size: 14.4px;
+  font-weight: 400;
+  line-height: 24.48px;
+  color: #fff;
+}

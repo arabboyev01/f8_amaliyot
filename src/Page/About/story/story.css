@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+.story__text {
+    margin-top: 100px;
+}
+
+.story__text h5 {
+    font-family: Heebo;
+    font-size: 12.8px;
+    font-weight: 500;
+    line-height: 17.92px;
+    letter-spacing: 0.800000011920929px;
+    color: #3585F9;
+}
+
+.story__text h3 {
+    font-family: Lora;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    text-align: left;
+}
+
+.story__text p {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}

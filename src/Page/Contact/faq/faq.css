@@ -1,0 +1,27 @@
+.faq__list {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    width: 100%;
+    padding-top: 200px;
+    height: 1000px;
+    background-image: url('./img/62038392898a7f3ed9603a1d_Photography_MFC_ContactSection-p-1600.jpeg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.faq__text {
+    padding-left: 900px;
+}
+
+.faq__text h2 {
+    padding-left: 25px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+
+}
+
+.faq__text p {
+    padding-left: 30px;
+    font-size: 16px;
+}

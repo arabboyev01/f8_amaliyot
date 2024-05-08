@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+.about {
+    width: 100%;
+    height: 435px;
+    background-image: url("./img/62038392898a7f140a603a26_Photography_MFC_AboutUsHeader.jpeg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about__text h2 {
+    font-family: Lora;
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 67.2px;
+    text-align: left;
+    padding: 120px 0;
+}

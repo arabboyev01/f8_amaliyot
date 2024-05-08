@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.assessment {
+    background-color: #F7F9FC;
+    padding-bottom: 100px;
+}
+
+.assessment__text {
+    padding: 90px 0;
+}
+
+.assessment__text h4 {
+    font-family: Heebo;
+    font-size: 12.8px;
+    font-weight: 500;
+    line-height: 17.92px;
+    color: #3585F9;
+}
+
+.assessment__text h3 {
+    font-family: Lora;
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 67.2px;
+}
+
+.assessment__text p {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27.2px;
+}
+
+.test2__h4 {
+    font-family: Inter;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+}

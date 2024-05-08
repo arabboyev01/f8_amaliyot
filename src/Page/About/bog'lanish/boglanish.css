@@ -1,0 +1,70 @@
+.cont__bag {
+    margin-top: 80px;
+    margin-bottom: 90px;
+}
+
+.left__list p {
+    font-size: 17px;
+}
+
+.left__list_2 {
+    margin-left: 30px;
+}
+
+.left__list_2 h2 {
+    font-family: Lora;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.left__list_2 p {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.nails__2 h2 {
+    font-family: Heebo;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.nails__2 p {
+    font-family: Heebo;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.left_ {
+    width: 564px;
+    height: 163px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0px 10px 40px 0px #00000014;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.nails__1 {
+    padding: 0 15px;
+}
+
+.hovolalar {
+    display: flex;
+    gap: 10px;
+}
+
+.havola__text a {
+    color: #3585F9;
+    font-family: Heebo;
+    font-size: 12.8px;
+    font-weight: 500;
+    line-height: 17.92px;
+    letter-spacing: 0.800000011920929px;
+    text-align: left;
+}

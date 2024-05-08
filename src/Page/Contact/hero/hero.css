@@ -1,0 +1,35 @@
+.heros {
+    background-image: url('./img/kal3.png');
+    padding-top: 150px;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.contact__tilte {
+    color: black;
+}
+
+.heros__contact h2 {
+    font-size: 56px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    padding-top: 80px;
+}
+
+.hero__feet {
+    height: 80vh;
+    padding-top: 100px;
+}
+
+.hero__feet ul {
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.hero__feet h2 {
+    font-weight: 500;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 30px;
+}
